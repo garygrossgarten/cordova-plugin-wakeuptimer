@@ -17,7 +17,7 @@
        under the License.
  */
 
-package org.nypr.cordova.wakeupplugin.simplealarmexample;
+package de.garygrossgarten.cordova.wakeupplugin.simplealarmexample;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
