@@ -37,9 +37,9 @@
             </receiver>
         </config-file>
         
-        <source-file src="src/android/WakeupPlugin.java" target-dir="src/org/nypr/cordova/wakeupplugin/" />
-        <source-file src="src/android/WakeupReceiver.java" target-dir="src/org/nypr/cordova/wakeupplugin/" />
-        <source-file src="src/android/WakeupBootReceiver.java" target-dir="src/org/nypr/cordova/wakeupplugin/" />
+        <source-file src="src/android/WakeupPlugin.java" target-dir="src/de/garygrossgarten/cordova/wakeupplugin/" />
+        <source-file src="src/android/WakeupReceiver.java" target-dir="src/de/garygrossgarten/cordova/wakeupplugin/" />
+        <source-file src="src/android/WakeupBootReceiver.java" target-dir="src/de/garygrossgarten/cordova/wakeupplugin/" />
     </platform>
 
     <!-- ios -->
